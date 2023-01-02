@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-29T16:40:46 IST" name="Suite" finished-at="2022-12-29T16:41:35 IST" duration-ms="49048">
+    <groups>
+    </groups>
+    <test started-at="2022-12-29T16:40:46 IST" name="Test" finished-at="2022-12-29T16:41:35 IST" duration-ms="49048">
+      <class name="Com.Vedantu.TestCases.TC_SignIn">
+        <test-method is-config="true" signature="Initiate()[pri:0, instance:Com.Vedantu.TestCases.TC_SignIn@120f102b]" started-at="2022-12-29T16:40:46 IST" name="Initiate" finished-at="2022-12-29T16:41:11 IST" duration-ms="24749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initiate -->
+        <test-method signature="SignInTest()[pri:0, instance:Com.Vedantu.TestCases.TC_SignIn@120f102b]" started-at="2022-12-29T16:41:11 IST" name="SignInTest" finished-at="2022-12-29T16:41:24 IST" duration-ms="13649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInTest -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Vedantu.TestCases.TC_SignIn@120f102b]" started-at="2022-12-29T16:41:25 IST" name="Teardown" finished-at="2022-12-29T16:41:35 IST" duration-ms="10483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Com.Vedantu.TestCases.TC_SignIn -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

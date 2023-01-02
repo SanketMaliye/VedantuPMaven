@@ -1,0 +1,132 @@
+2022-12-28 11:01:13,641 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2022-12-28 11:07:58,442 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2022-12-28 11:14:13,321 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2022-12-28 11:21:38,281 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2022-12-28 11:21:39,459 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-28 11:23:29,740 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2022-12-28 11:23:30,982 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-28 11:24:35,479 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2022-12-28 11:26:33,609 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2022-12-28 11:26:34,786 [main] INFO Vedantu_Log - Phone Number Entered.
+2022-12-28 11:26:34,878 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-28 11:27:34,897 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2022-12-28 11:27:35,232 [main] INFO Vedantu_Log - Phone Number Entered.
+2022-12-28 11:27:35,389 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-28 11:28:17,734 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2022-12-28 11:28:18,044 [main] INFO Vedantu_Log - Phone Number Entered.
+2022-12-28 11:28:18,191 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-28 11:29:55,794 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2022-12-28 11:29:56,102 [main] INFO Vedantu_Log - Phone Number Entered.
+2022-12-28 11:29:56,234 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-28 11:29:56,708 [main] INFO Vedantu_Log - Password Entered.
+2022-12-28 11:29:56,841 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-28 11:30:00,471 [main] INFO Vedantu_Log - Navigates to HomePage.
+2022-12-28 13:25:50,741 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2022-12-28 13:25:51,195 [main] INFO Vedantu_Log - Phone Number Entered.
+2022-12-28 13:25:51,376 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-28 13:25:52,104 [main] INFO Vedantu_Log - Password Entered.
+2022-12-28 13:25:52,265 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-28 13:25:55,544 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2022-12-29 12:45:50,543 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2022-12-29 12:45:51,124 [main] INFO Vedantu_Log - Phone Number Entered.
+2022-12-29 12:45:51,276 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-29 12:45:52,089 [main] INFO Vedantu_Log - Password Entered.
+2022-12-29 12:45:52,206 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-29 12:46:01,134 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2022-12-29 14:05:09,551 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2022-12-29 14:05:09,941 [main] INFO Vedantu_Log - Phone Number Entered.
+2022-12-29 14:05:10,058 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-29 14:05:10,679 [main] INFO Vedantu_Log - Password Entered.
+2022-12-29 14:05:10,812 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-29 14:05:20,664 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2022-12-29 16:41:13,609 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2022-12-29 16:41:13,988 [main] INFO Vedantu_Log - Phone Number Entered.
+2022-12-29 16:41:14,088 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-29 16:41:14,660 [main] INFO Vedantu_Log - Password Entered.
+2022-12-29 16:41:14,811 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-29 16:41:21,948 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2022-12-29 16:46:41,633 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2022-12-29 16:46:42,418 [main] INFO Vedantu_Log - Phone Number Entered.
+2022-12-29 16:46:42,718 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-29 16:46:43,454 [main] INFO Vedantu_Log - Password Entered.
+2022-12-29 16:46:43,599 [main] INFO Vedantu_Log - Clicked Next Button.
+2022-12-29 16:46:51,778 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2023-01-01 23:07:38,327 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2023-01-01 23:07:39,025 [main] INFO Vedantu_Log - Phone Number Entered.
+2023-01-01 23:07:39,164 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-01 23:07:39,812 [main] INFO Vedantu_Log - Password Entered.
+2023-01-01 23:07:39,919 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-01 23:07:44,206 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2023-01-01 23:36:44,011 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2023-01-01 23:36:45,110 [main] INFO Vedantu_Log - Phone Number Entered.
+2023-01-01 23:36:45,215 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-01 23:36:46,132 [main] INFO Vedantu_Log - Password Entered.
+2023-01-01 23:36:46,283 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-01 23:36:52,091 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2023-01-02 00:57:07,328 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2023-01-02 00:57:09,692 [main] INFO Vedantu_Log - Phone Number Entered.
+2023-01-02 00:57:10,025 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 00:57:11,211 [main] INFO Vedantu_Log - Password Entered.
+2023-01-02 00:57:11,362 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 00:57:21,603 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2023-01-02 01:19:52,510 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2023-01-02 01:30:29,222 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2023-01-02 01:30:29,591 [main] INFO Vedantu_Log - Phone Number Entered.
+2023-01-02 01:30:29,729 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 01:30:30,406 [main] INFO Vedantu_Log - Password Entered.
+2023-01-02 01:30:30,570 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 01:30:38,322 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2023-01-02 01:32:11,390 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2023-01-02 01:32:12,216 [main] INFO Vedantu_Log - Phone Number Entered.
+2023-01-02 01:32:12,477 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 01:32:13,161 [main] INFO Vedantu_Log - Password Entered.
+2023-01-02 01:32:13,340 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 01:32:19,212 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2023-01-02 01:56:02,334 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2023-01-02 01:56:03,675 [main] INFO Vedantu_Log - Phone Number Entered.
+2023-01-02 01:56:03,804 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 01:56:05,322 [main] INFO Vedantu_Log - Password Entered.
+2023-01-02 01:56:05,577 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 01:56:22,991 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2023-01-02 01:58:51,514 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2023-01-02 01:58:52,434 [main] INFO Vedantu_Log - Phone Number Entered.
+2023-01-02 01:58:52,563 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 01:58:53,233 [main] INFO Vedantu_Log - Password Entered.
+2023-01-02 01:58:53,376 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 01:59:01,517 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2023-01-02 02:28:59,067 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2023-01-02 02:28:59,727 [main] INFO Vedantu_Log - Phone Number Entered.
+2023-01-02 02:28:59,855 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 02:29:00,783 [main] INFO Vedantu_Log - Password Entered.
+2023-01-02 02:29:00,896 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 02:29:09,227 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2023-01-02 02:46:14,974 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2023-01-02 02:46:15,279 [main] INFO Vedantu_Log - Phone Number Entered.
+2023-01-02 02:46:15,410 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 02:46:16,147 [main] INFO Vedantu_Log - Password Entered.
+2023-01-02 02:46:16,316 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 02:46:26,268 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2023-01-02 10:27:27,058 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2023-01-02 10:27:27,598 [main] INFO Vedantu_Log - Phone Number Entered.
+2023-01-02 10:27:27,748 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 10:27:28,615 [main] INFO Vedantu_Log - Password Entered.
+2023-01-02 10:27:28,832 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 10:27:35,937 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2023-01-02 10:31:31,639 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2023-01-02 10:31:32,077 [main] INFO Vedantu_Log - Phone Number Entered.
+2023-01-02 10:31:32,237 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 10:31:32,823 [main] INFO Vedantu_Log - Password Entered.
+2023-01-02 10:31:32,988 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 10:31:37,775 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2023-01-02 10:43:19,536 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2023-01-02 10:43:20,356 [main] INFO Vedantu_Log - Phone Number Entered.
+2023-01-02 10:43:20,765 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 10:43:21,409 [main] INFO Vedantu_Log - Password Entered.
+2023-01-02 10:43:21,500 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 10:43:27,320 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
+2023-01-02 10:47:44,509 [main] INFO Vedantu_Log - Clicked Sign In Button.
+2023-01-02 10:47:45,433 [main] INFO Vedantu_Log - Phone Number Entered.
+2023-01-02 10:47:45,553 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 10:47:46,070 [main] INFO Vedantu_Log - Password Entered.
+2023-01-02 10:47:46,195 [main] INFO Vedantu_Log - Clicked Next Button.
+2023-01-02 10:47:49,334 [main] INFO Vedantu_Log - Test Pass -- Navigates to HomePage.
