@@ -130,3 +130,9 @@
 2023-01-02 10:47:46,070 - Vedantu_Log -INFO - Password Entered.
 2023-01-02 10:47:46,195 - Vedantu_Log -INFO - Clicked Next Button.
 2023-01-02 10:47:49,334 - Vedantu_Log -INFO - Test Pass -- Navigates to HomePage.
+2023-01-02 13:49:37,107 - Vedantu_Log -INFO - Clicked Sign In Button.
+2023-01-02 13:49:38,633 - Vedantu_Log -INFO - Phone Number Entered.
+2023-01-02 13:49:38,736 - Vedantu_Log -INFO - Clicked Next Button.
+2023-01-02 13:49:39,432 - Vedantu_Log -INFO - Password Entered.
+2023-01-02 13:49:39,603 - Vedantu_Log -INFO - Clicked Next Button.
+2023-01-02 13:50:06,615 - Vedantu_Log -INFO - Test Pass -- Navigates to HomePage.
